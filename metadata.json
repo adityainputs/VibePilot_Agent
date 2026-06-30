@@ -1,0 +1,6 @@
+{
+  "name": "VibePilot",
+  "description": "An AI-powered high-fidelity productivity companion featuring voice controls, conversational scheduling proposals, habit tracking, structured context kickoff kits, and a secure server-side Gemini backend.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
